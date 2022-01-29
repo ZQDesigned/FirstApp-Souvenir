@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-RE/browser/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-RE/browser/src/main/res/layout/activity_webview.xml" value="0.18072916666666666" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public-backup/browser/src/main/res/layout/activity_launch.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/app/src/main/res/layout/activity_launch.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1734375" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/browser/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.33697916666666666" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/browser/src/main/res/layout/activity_launch.xml" value="0.2318840579710145" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/browser/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/DESIGNED.zq2jsr.browser-public/browser/src/main/res/layout/activity_webview.xml" value="0.213768115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

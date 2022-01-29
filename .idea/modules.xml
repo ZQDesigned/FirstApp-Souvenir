@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/浏览器定制版.iml" filepath="$PROJECT_DIR$/.idea/modules/浏览器定制版.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/browser/浏览器定制版.app.iml" filepath="$PROJECT_DIR$/.idea/modules/browser/浏览器定制版.app.iml" />
+    </modules>
+  </component>
+</project>

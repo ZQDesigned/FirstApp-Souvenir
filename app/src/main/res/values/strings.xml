@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="launch_sogou_com">LAUNCH SOGOU.COM</string>
+    <string name="launch_google_com">LAUNCH GOOGLE.COM</string>
+    <string name="welcome">Welcome!</string>
+    <string name="launch_baidu_com">LAUNCH Baidu.com</string>
+    <string name="designed_by_zq">Designed by ZQ.</string>
+    <string name="usertech_co_ltd">UserTech Co.,Ltd</string>
+</resources>
