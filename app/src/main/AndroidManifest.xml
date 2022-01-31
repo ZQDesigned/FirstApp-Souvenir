@@ -19,7 +19,8 @@
             android:supportsRtl="true"
             android:theme="@style/Theme.浏览器定制版"
             android:usesCleartextTraffic="true"
-            android:fullBackupContent="@xml/backup_descriptor">
+            android:fullBackupContent="@xml/backup_descriptor"
+            tools:ignore="ExtraText">
         <activity
             android:name=".LaunchActivity"
             android:screenOrientation="fullSensor"
