@@ -20,7 +20,23 @@
             android:theme="@style/Theme.浏览器定制版"
             android:usesCleartextTraffic="true"
             android:fullBackupContent="@xml/backup_descriptor"
-            tools:ignore="ExtraText">
+            tools:ignore="ExtraText"
+            android:resizeableActivity="true"
+            tools:targetApi="n">
+        <!-- 开始沉浸式配置 (如果并不需要针对刘海屏执行操作，那么不需要配置)-->
+        <!-- 解决沉浸式全面屏上下部分留黑或留白问题或者使用此方法:android:resizeableActivity="true"targetSdkVersion>25或者android:maxAspectRatio="2.4" -->
+        <meta-data
+                android:name="android.max_aspect"
+                android:value="2.4" />
+        <!-- 适配华为（huawei）刘海屏 -->
+        <meta-data
+                android:name="android.notch_support"
+                android:value="true" />
+        <!-- 适配小米（xiaomi）刘海屏 -->
+        <meta-data
+                android:name="notch.config"
+                android:value="portrait|landscape" />
+        <!-- 结束沉浸式配置 -->
         <activity
             android:name=".LaunchActivity"
             android:screenOrientation="fullSensor"
@@ -31,6 +47,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
         <activity android:name=".MainActivity"/>
         <activity android:name=".MyWebViewActivity"/>
