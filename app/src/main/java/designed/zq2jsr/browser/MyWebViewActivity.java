@@ -40,12 +40,12 @@ public class MyWebViewActivity extends AppCompatActivity {
 
         webView.setVerticalScrollBarEnabled(true);
         //设置缓存
-        webSettings.setSaveFormData(false);
-        webSettings.setSavePassword(false);
+        webSettings.setSaveFormData(true);
+        webSettings.setSavePassword(true);
         //设置支持缩放变焦
-        webSettings.setBuiltInZoomControls(true);
+        webSettings.setBuiltInZoomControls(false);
         //设置是否支持缩放
-        webSettings.setSupportZoom(true);
+        webSettings.setSupportZoom(false);
         //设置是否允许JS打开新窗口
         webSettings.setJavaScriptCanOpenWindowsAutomatically(true);
 
