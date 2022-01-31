@@ -24,7 +24,6 @@
             android:resizeableActivity="true"
             tools:targetApi="n">
         <!-- 开始沉浸式配置 (如果并不需要针对刘海屏执行操作，那么不需要配置)-->
-        <!-- 解决沉浸式全面屏上下部分留黑或留白问题或者使用此方法:android:resizeableActivity="true"targetSdkVersion>25或者android:maxAspectRatio="2.4" -->
         <meta-data
                 android:name="android.max_aspect"
                 android:value="2.4" />
