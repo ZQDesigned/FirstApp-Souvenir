@@ -25,6 +25,7 @@
                                               <map>
                                                 <entry key="color" value="000000" />
                                                 <entry key="imagePath" value="C:\Users\UserTech-ZQ\AppData\Local\Temp\ic_android_black_24dp.xml" />
+                                                <entry key="opacityPercent" value="60" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -67,7 +68,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="imagePath" value="C:\Users\UserTech-ZQ\Desktop\logo.png" />
+                                                <entry key="imagePath" value="C:\Users\UserTech-ZQ\Desktop\ic_launcher_background.jpg" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -91,8 +92,7 @@
                                             <option name="values">
                                               <map>
                                                 <entry key="color" value="000000" />
-                                                <entry key="imagePath" value="C:\Users\UserTech-ZQ\Desktop\微信图片_20220202131332.jpg" />
-                                                <entry key="scalingPercent" value="118" />
+                                                <entry key="imagePath" value="C:\Users\UserTech-ZQ\Desktop\logo.png" />
                                               </map>
                                             </option>
                                           </PersistentState>
