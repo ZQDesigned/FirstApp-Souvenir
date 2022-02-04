@@ -10,8 +10,8 @@ android {
         applicationId "designed.zq2jsr.browser"
         minSdk 26
         targetSdk 30
-        versionCode 6
-        versionName "RELEASE-1.0.5"
+        versionCode 2022020402
+        versionName "RELEASE-1.1.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         minSdkVersion 23
