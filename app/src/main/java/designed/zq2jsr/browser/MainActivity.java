@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button btn = findViewById(R.id.button1);
         btn.setOnClickListener(v -> {
-            //url参数通过Intent 传递过去
+            //url参数通过Intent 传递过去百度
             String url = "http://www.baidu.com";
             Intent intent=new Intent(MainActivity.this,MyWebViewActivity.class);
             intent.putExtra("url", url);
@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         btn = findViewById(R.id.button2);
         btn.setOnClickListener(v -> {
-            //url参数通过Intent 传递过去
+            //url参数通过Intent 传递过去搜狗
             String url = "http://ot.wap.sogou.com";
             Intent intent=new Intent(MainActivity.this,MyWebViewActivity.class);
             intent.putExtra("url", url);
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         btn = findViewById(R.id.button3);
         btn.setOnClickListener(v -> {
-            //url参数通过Intent 传递过去
+            //url参数通过Intent 传递过去谷歌
             String url = "https://www.google.com";
             Intent intent=new Intent(MainActivity.this,MyWebViewActivity.class);
             intent.putExtra("url", url);
